@@ -1,0 +1,5 @@
+name = input("Name:")
+surname = input("Surname:")
+number = int(input("Number:"))
+print("\nInformations...\n")
+print("{}\n{}\n{}".format(name,surname,number))
